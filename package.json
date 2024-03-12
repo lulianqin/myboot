@@ -1,0 +1,41 @@
+{
+  "name": "myboot",
+  "version": "1.0.0",
+  "description": "An automatic reconnect mux-demux-shoe",
+  "keywords": [],
+  "author": "henry <lhxiaotaobao@gmail.com>",
+  "repository": "https://github.com/lulianqin/myboot.git",
+  "main": "index",
+  "homepage": "https://github.com/lulianqin/myboot",
+  "browserify": "browser.js",
+  "contributors": [
+    {
+      "name": "henry Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/lulianqin/myboot/issues",
+    "email": "lhxiaotaobao@gmail.com"
+  },
+  "dependencies": {
+    "mux-demux-shoe": "~0.2.4",
+    "through": "~0.1.4",
+    "pause-stream": "0.0.3",
+    "backoff": "~0.3.0",
+    "duplexer": "~0.0.2"
+  },
+  "devDependencies": {
+    "upnode": "~0.4.1",
+    "node-uuid": "~1.3.3",
+    "browserify-server": "~0.2.0",
+    "multi-channel-mdm": "~0.5.0",
+    "lazynode": "~0.1.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/lulianqin/myboot/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {}
+}
