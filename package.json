@@ -1,6 +1,6 @@
 {
-  "name": "myboot",
-  "version": "1.0.0",
+  "name": "myboot", 
+  "version": "2.0.0",
   "description": "An automatic reconnect mux-demux-shoe",
   "keywords": [],
   "author": "henry <lhxiaotaobao@gmail.com>",
